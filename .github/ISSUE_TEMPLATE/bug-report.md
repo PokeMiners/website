@@ -3,7 +3,7 @@ name: Bug Report
 about: Something break? Yell at us!
 title: "[BUG] - INSERT TITLE HERE"
 labels: bug
-assignees: marty0678
+assignees: Jonkins, marty0678
 
 ---
 

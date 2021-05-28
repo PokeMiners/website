@@ -3,7 +3,7 @@ name: Suggestion / Feedback
 about: Have an idea of something you want to see? Let us know!
 title: "[SUGGESTION] - INSERT TITLE HERE"
 labels: enhancement
-assignees: marty0678
+assignees: Jonkins, marty0678
 
 ---
 
