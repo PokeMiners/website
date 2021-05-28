@@ -7,6 +7,8 @@ assignees: marty0678
 
 ---
 
+Have a great idea? Let us know by filling in this form. Thank you for your feedback!
+
 **Describe your idea/feedback**
 A clear and concise description of what you'd like to see.
 
