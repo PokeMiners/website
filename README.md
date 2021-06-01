@@ -7,4 +7,4 @@ Issues, feedback, or suggestions regarding our [website](https://pokeminers.com)
 
 Go the `Issues` section of the the repository and create a new issue. Select from Bug Report or Suggestion / Feedback and fill in the fields. The more information you provide the better, but if you don't know something don't stress about it. Just fill in what you know.
 
-Thhank you very much for your feedback!
+Thank you very much for your feedback!
